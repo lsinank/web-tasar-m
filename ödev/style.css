@@ -1,0 +1,54 @@
+
+*{
+    margin:10px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: white;
+}
+.logo  img{
+    width: 200px;
+    height: 200px;
+    left: 10px;
+    position: absolute;
+
+}
+.banner{
+    width: 1100px;
+    height: 150px;
+    border: 1px  solid  black;
+    position: absolute;
+    left: 190px;
+}
+.navbar{
+    width: 1270px;
+    height: 50px;
+    border: 1px solid black;
+    position: fixed;
+    top: 201px;
+    
+}
+.menu{
+    width: 350px;
+    height: 650px;
+    border: 1px solid black;
+    position: fixed;
+    top: 270px;
+    
+}
+.icerik{
+    width: 910px;
+    height: 650px;
+    border: 1px solid red;
+    position: fixed;
+    top: 270px;
+    left: 380px;
+    
+}
+.footer{
+    width: 1270px;
+    height: 50px;
+    border: 1px solid red;
+    position: fixed;
+    top: 930px;
+    
+}
